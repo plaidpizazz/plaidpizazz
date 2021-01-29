@@ -22,12 +22,12 @@ I'm a husband, father, full-stack developer, aerospace business development & en
 
 
 ---
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 <br />
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://marcellusspears.com/blog)
+<!-- ➡️ [more blog posts...](https://marcellusspears.com/blog) -->
 
 <br />
 <!-- ### Spotify Playing 🎧 -->
