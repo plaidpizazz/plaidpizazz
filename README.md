@@ -16,14 +16,7 @@ I'm a husband, father of 4, current full-stack & DApp developer, prior aerospace
 
 ---
 ### Top Technologies :computer:
-[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
-[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-EA583B?style=for-the-badge&labelColor=black&logo=ruby&logoColor=EA583B)](#) 
-[![Ruby-On-Rails Badge](https://img.shields.io/badge/-rubyonrails-CC0000?style=for-the-badge&labelColor=black&logo=ruby-on-rails&logoColor=CC0000)](#)
-
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#) [![Ruby Badge](https://img.shields.io/badge/-Ruby-EA583B?style=for-the-badge&labelColor=black&logo=ruby&logoColor=EA583B)](#) [![Ruby-On-Rails Badge](https://img.shields.io/badge/-rubyonrails-CC0000?style=for-the-badge&labelColor=black&logo=ruby-on-rails&logoColor=CC0000)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=black&logo=ethereum&logoColor=3C3C3D)](#)
 
 
 ---
