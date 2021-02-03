@@ -24,10 +24,11 @@ I'm a husband, father of 4, current full-stack & DApp developer, prior aerospace
 
 [![Marcellus GitHub stats](https://github-readme-stats.vercel.app/api?username=plaidpizazz&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ---
-### Coding Stats -->
+---
+### Coding Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ---
@@ -35,6 +36,7 @@ I'm a husband, father of 4, current full-stack & DApp developer, prior aerospace
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=plaidpizazz.plaidpizazz)
 
+<br />
 <!-- ### 📕 Latest Blog Posts -->
 <br />
 <!-- BLOG-POST-LIST:START -->
