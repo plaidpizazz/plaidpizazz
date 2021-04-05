@@ -29,7 +29,9 @@ I'm a husband, father of 4, current full-stack & DApp developer, prior aerospace
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 March, 2021 - 04 April, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
