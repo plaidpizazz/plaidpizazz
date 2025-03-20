@@ -22,7 +22,7 @@ I'm a husband, father of 4, current full-stack & DApp developer, prior aerospace
 ---
 ### Github Stats
 
-[![Marcellus GitHub stats](https://github-readme-stats.vercel.app/api?username=plaidpizazz&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcellus GitHub stats](https://github-readme-stats-sigma-one-47.vercel.app/api?username=plaidpizazz&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Coding Stats
