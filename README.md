@@ -35,8 +35,9 @@ No Activity tracked this Week
 
 ---
 ### Profile Visits
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=plaidpizazz.plaidpizazz)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=plaidpizazz.plaidpizazz)
+
 
 <br />
 <!-- ### 📕 Latest Blog Posts -->
